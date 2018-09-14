@@ -8,7 +8,7 @@ solicitação<br><br>
 • pkg install python3<br>
 • pkg install git<br>
 • pip install requests<br>
-• git clone<br>
+• git clone https://github.com/MisterCyber/IPgeoLookup<br>
 • cd IPgeoLookup<br>
 • chmod +x IPgeoLookup.py<br>
 • python3 IPgeoLookup.py<br>
